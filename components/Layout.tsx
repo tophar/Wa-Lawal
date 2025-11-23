@@ -7,7 +7,7 @@ interface LayoutProps {
   children: React.ReactNode;
 }
 
-// Logo Component with cleaned up SVG
+// Logo Component with cleaned up SVG and removed invalid styles
 const BrandLogo = ({ className = "h-12 w-auto" }: { className?: string }) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
