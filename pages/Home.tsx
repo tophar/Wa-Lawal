@@ -1,6 +1,7 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Truck, Wheat, Package, CheckCircle, ShieldCheck, Users, Map, ArrowRight, Anchor, Timer } from 'lucide-react';
+import { Wheat, CheckCircle, ArrowRight, Anchor, Timer } from 'lucide-react';
 
 const Home: React.FC = () => {
   return (

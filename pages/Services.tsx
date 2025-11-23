@@ -1,6 +1,7 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Truck, ShoppingBag, Wheat, ChevronRight, Package, MapPin, Anchor, ShieldCheck, Settings, ArrowRight } from 'lucide-react';
+import { Truck, ShoppingBag, Wheat, Package, Anchor, ShieldCheck, Settings, ArrowRight } from 'lucide-react';
 
 const Services: React.FC = () => {
   return (

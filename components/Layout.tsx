@@ -16,7 +16,6 @@ const BrandLogo = ({ className = "h-12 w-auto" }: { className?: string }) => (
     style={{
       shapeRendering: "geometricPrecision",
       textRendering: "geometricPrecision",
-      imageRendering: "optimizeQuality",
       fillRule: "evenodd",
       clipRule: "evenodd"
     }}

@@ -1,6 +1,7 @@
+
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Shield, Clock, Smile, Activity, Heart, TrendingUp, Target, Anchor, CheckCircle, ArrowRight, Award, Briefcase } from 'lucide-react';
+import { Shield, Clock, Smile, Activity, Heart, TrendingUp, Target, Anchor, ArrowRight, Award, Briefcase } from 'lucide-react';
 
 const About: React.FC = () => {
   return (
